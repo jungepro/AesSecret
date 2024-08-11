@@ -1,0 +1,7 @@
+server:
+  servlet:
+    context-path: /aes
+  port: 8080
+spring:
+  resource:
+    static-locations: classpath:static/,file:static/
